@@ -1,0 +1,19 @@
+{
+  "name": "SmsalertMessaging",
+  "version": "1.0.0",
+  "keywords": ["Smsalert", "SMS", "report"],
+  "description": "Mobile Messaging Plugin: Smsalert support",
+  "theme": false,
+  "require": {
+    "piwik": ">=3.0.2"
+  },
+  "homepage": "https://github.com/cozyvision/piwik-smsalertsmsprovider-plugin",
+  "authors": [
+    {
+      "name": "Smsalert",
+      "email": "support@cozyvision.com",
+      "homepage": "https://smsalert.co.in"
+    }
+  ],
+  "license": "GPL v3"
+}
