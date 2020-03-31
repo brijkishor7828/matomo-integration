@@ -1,4 +1,4 @@
-# Piwik SMSAlertSMSProvider Plugin 
+# Matomo SMS Alert Integration 
 
 ## Description
 
