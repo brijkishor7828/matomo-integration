@@ -1,19 +1,24 @@
 {
-  "name": "SmsalertMessaging",
+  "name": "SMSalert",
   "version": "1.0.0",
   "keywords": ["Smsalert", "SMS", "report"],
-  "description": "Mobile Messaging Plugin: Smsalert support",
+  "description": "Mobile Messaging Plugin: www.smsalert.co.in",
   "theme": false,
+  "keywords": ["smsalert", "mobile messaging", "sms", "sms integration", "sms report"],
+  "homepage": "https://www.smsalert.co.in",
+  "license": "GPL-3.0",
   "require": {
     "piwik": ">=3.0.2"
   },
   "homepage": "https://github.com/SMSAlert/matomo-integration",
   "authors": [
     {
-      "name": "Smsalert",
+      "name": "SMS Alert",
       "email": "support@cozyvision.com",
       "homepage": "https://www.smsalert.co.in"
     }
   ],
-  "license": "GPL v3"
+  "support": {
+        "email": "support@cozyvision.com",
+  }
 }
