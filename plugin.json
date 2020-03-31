@@ -7,12 +7,12 @@
   "require": {
     "piwik": ">=3.0.2"
   },
-  "homepage": "https://github.com/cozyvision/piwik-smsalertsmsprovider-plugin",
+  "homepage": "https://github.com/SMSAlert/matomo-integration",
   "authors": [
     {
       "name": "Smsalert",
       "email": "support@cozyvision.com",
-      "homepage": "https://smsalert.co.in"
+      "homepage": "https://www.smsalert.co.in"
     }
   ],
   "license": "GPL v3"
