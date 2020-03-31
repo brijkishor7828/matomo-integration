@@ -30,7 +30,7 @@ GPL v3
 
 Please direct any feedback to: 
 
-* [https://github.com/cozyvision/piwik-smsalertsmsprovider-plugin/issues][2]
+* [https://github.com/SMSAlert/matomo-integration/issues][2]
 
 [1]: http://piwik.org
-[2]: https://github.com/cozyvision/piwik-smsalertsmsprovider-plugin/issues
+[2]: https://github.com/SMSAlert/matomo-integration/issues
