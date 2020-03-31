@@ -7,7 +7,7 @@ add Free Mobile SMS provider support to MobileMessaging plugin.
 
 ## Installation
 
-Install the prerequiste MobileMessagin plugin via MarketPlace.
+Install the prerequiste MobileMessaging plugin via MarketPlace.
 
 See http://piwik.org/faq/plugins/#faq_21
 
@@ -30,7 +30,7 @@ GPL v3
 
 Please direct any feedback to: 
 
-* [https://github.com/cozyvision/piwik-smsalertsmsprovider-plugin/issues][2]
+* [https://github.com/smsalert/piwik-smsalertsmsprovider-plugin/issues][2]
 
 [1]: http://piwik.org
-[2]: https://github.com/cozyvision/piwik-smsalertsmsprovider-plugin/issues
+[2]: https://github.com/smsalert/piwik-smsalertsmsprovider-plugin/issues

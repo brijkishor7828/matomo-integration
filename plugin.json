@@ -7,7 +7,7 @@
   "require": {
     "piwik": ">=3.0.2"
   },
-  "homepage": "https://github.com/cozyvision/piwik-smsalertsmsprovider-plugin",
+  "homepage": "https://github.com/smsalert/piwik-smsalertsmsprovider-plugin",
   "authors": [
     {
       "name": "Smsalert",
