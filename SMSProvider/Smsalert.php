@@ -39,7 +39,7 @@ class Smsalert extends \Piwik\Plugins\MobileMessaging\SMSProvider
 
     public function getDescription()
     {
-        return 'You can use <a target="_blank" rel="noreferrer noopener" href="https://www.smsalert.co.in"><img src="plugins/SmsalertMessaging/images/smsalert.png"/></a> to send SMS Reports from Piwik.<br/>
+        return 'You can use <a target="_blank" rel="noreferrer noopener" href="https://www.smsalert.co.in"><img src="plugins/Smsalert/images/smsalert.png"/></a> to send SMS Reports from Piwik.<br/>
 			<ul>
 			<li> First, <a target="_blank" rel="noreferrer noopener" href="https://www.smsalert.co.in/#register/">get an Account at Smsalert</a> (Signup is free!)
 			</li><li> Enter your Smsalert credentials on this page. </li>
