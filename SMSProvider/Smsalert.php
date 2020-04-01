@@ -6,7 +6,7 @@
  * @license http://www.gnu.org/licenses/gpl-3.0.html GPL v3 or later
  *
  */
-namespace Piwik\Plugins\SmsalertMessaging\SMSProvider;
+namespace Piwik\Plugins\Smsalert\SMSProvider;
 
 use Piwik\Http;
 use Piwik\Plugins\MobileMessaging\APIException;
