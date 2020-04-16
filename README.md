@@ -3,7 +3,7 @@
 ## Description
 
 This is a plugin for the Open Source Web Analytics platform [Piwik][1]. It 
-add Free Mobile SMS provider support to MobileMessaging plugin.
+add SMS Alert support to MobileMessaging plugin.
 
 ## Installation
 
